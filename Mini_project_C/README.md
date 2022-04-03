@@ -1,6 +1,6 @@
 # Stepin_Miniproject
 
-## Miniproject on ATM using C language
+## Miniproject on Auto teller machine c project
 ![capture](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/59113ea2d87532eec3f8ac1d8a16a551c6b7eed4/1_Requirements/atm.jpg)
 
 ## SDLC Activity Based Learning
